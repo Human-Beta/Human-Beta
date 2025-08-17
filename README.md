@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **workmailnikita@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oW-neN5IoQDNjT_TMSKrjvoFLMWjV9KN/view](https://drive.google.com/file/d/1oW-neN5IoQDNjT_TMSKrjvoFLMWjV9KN/view)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1oW-neN5IoQDNjT_TMSKrjvoFLMWjV9KN/view)
 
 - ⚡ Fun fact **When I drink bourbon, I get weirdly good at beatboxing**
 
