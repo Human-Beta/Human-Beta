@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=human-beta&label=Profile%20views&color=0e75b6&style=flat" alt="human-beta" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=human-beta" alt="human-beta" /></a> </p>
-
 - 🔭 I’m currently working on **B2B project at Aspira**
 
 - 👨‍💻 All of my projects are available at [nikita.com](nikita.com)
