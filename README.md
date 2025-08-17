@@ -73,6 +73,6 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats-eta-two-86.vercel.app/api/top-langs?username=human-beta&show_icons=true&locale=en&layout=compact" alt="human-beta" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats-eta-two-86.vercel.app/api?username=human-beta&show_icons=true&locale=en" alt="human-beta" /></p>
+<p><img align="center" src="https://github-readme-stats-eta-two-86.vercel.app/api?username=human-beta&show_icons=true&locale=en" alt="human-beta" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=human-beta&label=Profile%20views&color=0e75b6&style=flat" alt="human-beta" /> </p>
