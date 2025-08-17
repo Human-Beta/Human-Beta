@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=human-beta&label=Profile%20views&color=0e75b6&style=flat" alt="human-beta" /> </p>
 
-- 🔭 I’m currently working on **B2B project at <a href="https://aspira.global/ua/" target="_blank" rel="noopener noreferrer nofollow">Aspira</a>**
-- 👨‍💻 All of my projects are available at <a href="nikita.com" target="_blank" rel="noopener">nikita.com</a>
+- 🔭 I’m currently working on **B2B project at <a href="https://aspira.global/ua/" target="_blank">Aspira</a>**
+- 👨‍💻 All of my projects are available at <a href="https://nikita.com" target="_blank" rel="noopener">nikita.com</a>
 
 - 💬 Ask me about **Java, Spring, Vue, React, maybe Hybris**
 
