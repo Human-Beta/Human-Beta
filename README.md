@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=human-beta&label=Profile%20views&color=0e75b6&style=flat" alt="human-beta" /> </p>
 
-- 🔭 I’m currently working on **B2B project at Aspira**
+- 🔭 I’m currently working on **B2B project at [Aspira](https://aspira.global/ua/)**
 
 - 👨‍💻 All of my projects are available at [nikita.com](nikita.com)
 
