@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=human-beta&label=Profile%20views&color=0e75b6&style=flat" alt="human-beta" /> </p>
 
-- All about me is on [My Website]([url](https://mykyta-shyshov.vercel.app/))
+- All about me is on <a href="https://mykyta-shyshov.vercel.app/" target="_blank">My Website</a>
 - 🔭 I’m currently working on **B2B project at <a href="https://aspira.global/ua/" target="_blank">Aspira</a>**
 - 👨‍💻 All of my projects are available at <a href="https://nikita.com" target="_blank" rel="noopener">nikita.com</a>
 
