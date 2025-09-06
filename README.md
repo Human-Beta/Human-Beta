@@ -5,7 +5,6 @@
 
 - All about me is on <a href="https://mykyta-shyshov.vercel.app/" target="_blank">My Website</a>
 - 🔭 I’m currently working on **B2B project at <a href="https://aspira.global/ua/" target="_blank">Aspira</a>**
-- 👨‍💻 All of my projects are available at <a href="https://nikita.com" target="_blank" rel="noopener">nikita.com</a>
 
 - 💬 Ask me about **Java, Spring, Vue, React, maybe Hybris**
 
