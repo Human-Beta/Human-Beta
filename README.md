@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=human-beta&label=Profile%20views&color=0e75b6&style=flat" alt="human-beta" /> </p>
 
-- All about me is on <a href="https://mykyta-shyshov.vercel.app/" target="_blank">My Website</a>
-- 🔭 I’m currently working on **B2B project at <a href="https://aspira.global/ua/" target="_blank">Aspira</a>**
+- All about me is on [My Website](https://mykyta-shyshov.vercel.app/)
+- 🔭 I’m currently working on **B2B project at [Aspira](https://aspira.global/ua/)**
 
 - 💬 Ask me about **Java, Spring, Vue, React, maybe Hybris**
 
